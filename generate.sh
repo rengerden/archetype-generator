@@ -252,6 +252,7 @@ while getopts "hgdtv" arg; do
 		exit 0
 		;;
 	v) print_version ;;
+	s) print_subdomain_info ;;
 	*) helpPanel ;;
 	esac
 done
