@@ -1,0 +1,13 @@
+a,Adapter microservice/Legacy communication
+b,Specific business micro service
+c,CRUD micro service
+d,Domain/ Business micro service/ Multichannel micro service
+e,Event microservice/ Async micro service
+g,Catalog micro service
+h,Hybrid microservice/ REST and Asyn
+o,Orchestration micro service
+p,Platform micro service
+q,Query micro service
+t,Transient micro service
+u,Utility library
+v,Presentation micro service / View micro service 
