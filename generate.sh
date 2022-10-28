@@ -26,14 +26,14 @@ domain_id_max_length=2
 subdomain_id_max_length=2
 project_path=${HOME}
 
-DarchetypeGroupId=org.acme
-DarchetypeArtifactId=code-with-quarkus
-DarchetypeVersion=1.0.0-SNAPSHOT
+DarchetypeGroupId="org.acme"
+DarchetypeArtifactId="code-with-quarkus"
+DarchetypeVersion="1.0.0-SNAPSHOT"
 
 base_prefix="com.bancoppel"
 owner_abbreviation="bcpl"
 subdomain_abbreviation="devn"
-bounded_context
+bounded_context="microservice-ejemplo-naming"
 package_sufix_name=""
 domain_abbreviation=""
 
